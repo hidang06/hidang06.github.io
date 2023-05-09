@@ -4,12 +4,12 @@
         <link>http://example.org/posts/</link>
         <description>All Posts | My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 May 2023 21:06:59 &#43;0700</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>My testing post</title>
+    <title>First Page</title>
     <link>http://example.org/posts/first-page/</link>
     <pubDate>Tue, 09 May 2023 21:06:59 &#43;0700</pubDate>
-    <author>Hi Dang</author>
+    <author>Author</author>
     <guid>http://example.org/posts/first-page/</guid>
-    <description><![CDATA[Nội dung của bài viết here is some draft]]></description>
+    <description><![CDATA[Nội dung của bài viếtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa]]></description>
 </item>
 </channel>
 </rss>
